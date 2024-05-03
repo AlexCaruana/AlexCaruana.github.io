@@ -9,56 +9,18 @@ redirect_from:
 
 {% include base_path %}
 
+My CV is available [here](/files/CV_AlexCaruana.pdf)
+
+
+
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+**D.Phil. in Conservation Biology** (2024 - Current), University of Oxford\
+Dissertation Advisor: Professor [Joseph Bull](https://www.biology.ox.ac.uk/people/joseph-bull)
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+**M.Sc. in Sustainable Forest and Nature Management, sp. Conservation Biology**, University of Copenhagen & Bangor University, 2023\
+Thesis Advisor: Professor [Julia P. G. Jones](https://www.bangor.ac.uk/staff/sens/julia-patricia-gordon-jones-010356/en)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+**B.Sc. in Environmental Engineering**, Malta's College of Arts, Science and Technology, 2021
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
