@@ -14,3 +14,12 @@ I completed my dual master's degree in Sustainable Forest and Nature Management,
 My interests lie in further understanding whether conservation initatives and policies are working around the globe. As a continuation of [Bull et al. (2021)](https://doi.org/10.1111/cobi.13570) and [Grace et al. (2021)](https://doi.org/10.1016/j.biocon.2021.109259)'s research, I will be focusing on constructing counterfactuals using species population as a basis for impact evaluation.
 If you're also interested in this area, do feel free to get in touch!
 
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-GPW2VN93X1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-GPW2VN93X1');
+</script>
