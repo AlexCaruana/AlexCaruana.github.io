@@ -19,6 +19,9 @@ author_profile: true
 Publications
 ======
 ## Peer-reviewed Publications:
+[3] **Caruana A**, Muir M, White TB, Jones JPG. 2024. Lessons lost: Lack of requirements for post-project evaluation and reporting is hindering evidence-based conservation. Conservation Science and Practice. [https://doi.org/10.1111/csp2.13260
+](https://doi.org/10.1111/csp2.13260)
+
 [2] **Caruana A**, Camilleri B, Farrugia L, Jones JPG. 2024. Mechanical excavation of wetland habitat failed to eradicate invasive American red swamp crayfish (Procambarus clarkii) in Malta. Ecological Solutions and Evidence. [https://doi.org/10.1002/2688-8319.12325](https://doi.org/10.1002/2688-8319.12325)
 
 [1] Shackelford, N., [and 76 others, including **Caruana, A.**] et. al. 2021. Drivers of seedling establishment success in dryland restoration efforts. Nature Ecology and Evolution. [https://www.nature.com/articles/s41559-021-01510-3](https://www.nature.com/articles/s41559-021-01510-3)
